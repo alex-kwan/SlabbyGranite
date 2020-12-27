@@ -8,7 +8,7 @@ const {
 export default function Footer(): JSX.Element {
     return (
         <footer className={ footer }>
-            <p>© PWA Boilerplate</p>
+            <p>© SlabbyGranite</p>
             <p>
                 View source code on <a
                   href="https://github.com/tomburgs/pwa-boilerplate"
